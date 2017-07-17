@@ -1,0 +1,17 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen_sayının_tam_bölenlerini_bulan_algoritma.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen_sayının_tam_bölenlerini_bulan_algoritma.Properties.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.csproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\girilen sayının tam bölenlerini bulan algoritma\bin\Debug\girilen sayının tam bölenlerini bulan algoritma.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\girilen sayının tam bölenlerini bulan algoritma\bin\Debug\girilen sayının tam bölenlerini bulan algoritma.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\bin\Debug\girilen sayının tam bölenlerini bulan algoritma.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\bin\Debug\girilen sayının tam bölenlerini bulan algoritma.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen_sayının_tam_bölenlerini_bulan_algoritma.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen_sayının_tam_bölenlerini_bulan_algoritma.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\girilen sayının tam bölenlerini bulan algoritma\girilen sayının tam bölenlerini bulan algoritma\obj\x86\Debug\girilen sayının tam bölenlerini bulan algoritma.pdb
